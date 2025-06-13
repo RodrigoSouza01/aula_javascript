@@ -1,0 +1,20 @@
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+h1  {
+    background-color: rgb(181, 181, 182);
+    }
+
+ 
+h4 {
+    color: blue;
+    background-color: rgb(214, 204, 238);
+    font-size: 40px;
+}
+
+.footer {
+    color: black;
+    background-color: black;
+}
